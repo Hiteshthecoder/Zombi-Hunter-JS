@@ -1,6 +1,6 @@
-** ZOMBIE SHOOTER  **
+# ZOMBIE SHOOTER
 
-# 2D game made with simple javascript, html, CSS and JQuery.
+## 2D game made with simple javascript, html, CSS and JQuery.
 
 # PREVIEW
 
